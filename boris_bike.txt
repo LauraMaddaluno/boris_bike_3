@@ -5,3 +5,13 @@ file path where the error happened : 4: from /home/ec2-user/.rvm/rubies/ruby-2.6
         1: from (irb):1
 line number of the error:  from (irb):1
 solving the error: define a method       
+
+
+object  | message
+-----------------
+MOP     | dock
+-----------------
+docking | has_bike
+station |
+---------------------
+bike    | is_docked?
